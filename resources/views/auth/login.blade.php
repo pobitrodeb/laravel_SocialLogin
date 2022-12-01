@@ -41,7 +41,7 @@
 
                         <div class="row mb-3">
                             <div class="col-md-6 offset-md-4">
-                               <a href="" class="btn btn-success">Facebook</a>
+                               <a href="{{url('login/facebook)}}" class="btn btn-success">Facebook</a>
                                <a href="" class="btn btn-success">Google</a>
                                <a href="" class="btn btn-success">Github</a>
                             </div>
